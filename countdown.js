@@ -52,9 +52,10 @@ doors.forEach((door, index) => {
       const style = window.getComputedStyle(backDiv);
       const pTag = backDiv.querySelector('p')
       const text = modalMessageList[index]['message']
+      const enrollUrl = modalMessageList[index]['enrollUrl']
 
       // showModal 함수를 호출하여 모달을 표시합니다.
-      showModal(imageUrl, text);
+      showModal(imageUrl, text, enrollUrl);
       // alert('이벤트 캘린더를 엽니다.');
 
     } else {
