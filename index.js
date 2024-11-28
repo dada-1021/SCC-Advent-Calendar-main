@@ -56,7 +56,7 @@ function showModal(imageUrl, text, enrollUrl) {
 }
 
 const modalMessageList = [
-  { "number": 1, "message":  "Don't worry, be Belly! 오늘도 힘찬 하루의 시작이에요!", "enrollUrl": "www.naver.com?1" },
+  { "number": 1, "message":  "Don't worry, be Belly! 오늘도 힘찬 하루의 시작이에요!", "enrollUrl": "ww.naver.cwom?1" },
   { "number": 2, "message":  "오늘 점심 메뉴는 뭘로 하실 건가요? 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "www.naver.com?1" },
   { "number": 3, "message":  "여러분의 미소가 롯데홈쇼핑을 더 빛나게 해요⭐", "enrollUrl": "www.naver.com?1" },
   { "number": 4, "message":  "오늘은 '파이팅 한 잔' 하는 날! 따뜻한 음료 한 잔 어떠세요?", "enrollUrl": "www.naver.com?1" },
@@ -82,7 +82,11 @@ const modalMessageList = [
   { "number": 24, "message": "메리 크리스마스! 따뜻한 연말 보내세요🎄", "enrollUrl": "www.naver.com?1" }
 ];
 
-
+// TODO: 
+//  1. 링크 24개 만들기 (폼즈)
+//  2. 위의 modalMessageList 에서 enrollUrl 값 변경하기 (1번에서 나온 값으로)
+//  3. 응모하기 버튼 CSS 수정 (28L 이후에 button 에 대해서 CSS 추가, 19~22L 참고)
+//  4. GPT 한테 눌렀을 때 URL 로 옮겨가는게 아니라 폴더명까지 붙는 부분 수정 요청해서 반영하기.
 
 // const modalMessageList = [
 //   { "number": 1, "message": "행복의 계절, 모두가 함께하는 24일!" },
