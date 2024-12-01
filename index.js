@@ -20,15 +20,28 @@ function showModal(imageUrl, text, enrollUrl) {
   image.alt = 'Door Image';
   image.style.width = '100%';
   image.style.height = '211px';
-
+  // image.style.borderRadius = '20px';
+  
   // 텍스트를 표시할 요소를 생성합니다.
   const textElement = document.createElement('p');
   textElement.textContent = text;
-
+  
   const button = document.createElement('input');
   button.type = 'button';
-  button.value = '응모하기';
+  button.value = '🍀행운쇼핑🍀';
+  
+  // button.style.backgroundImage = `url(image/button.png)`;
+  // button.alt = 'Door Image';
+  button.style.width = '30%';
+  button.style.height = '30px';
+  button.style.color = 'white';
+  button.style.borderColor = 'white';
+  button.style.backgroundColor = 'pink';
+  button.style.borderRadius = '20px';
+  // button.style.border = 'none';
+  button.style.marginTop = '10px';
 
+  
   // 버튼 클릭 시 새 창 열기
   button.addEventListener('click', () => {
       window.open(enrollUrl, '_blank');
@@ -56,31 +69,34 @@ function showModal(imageUrl, text, enrollUrl) {
 }
 
 const modalMessageList = [
-  { "number": 1, "message":  "Don't worry, be Belly! 오늘도 힘찬 하루의 시작이에요!", "enrollUrl": "ww.naver.cwom?1" },
-  { "number": 2, "message":  "오늘 점심 메뉴는 뭘로 하실 건가요? 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "www.naver.com?1" },
-  { "number": 3, "message":  "여러분의 미소가 롯데홈쇼핑을 더 빛나게 해요⭐", "enrollUrl": "www.naver.com?1" },
-  { "number": 4, "message":  "오늘은 '파이팅 한 잔' 하는 날! 따뜻한 음료 한 잔 어떠세요?", "enrollUrl": "www.naver.com?1" },
-  { "number": 5, "message":  "벨리가 응원해요! 오늘도 멋진 하루 보내세요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 6, "message":  "우리 함께 만드는 변화, 당신이 바로 주인공이에요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 7, "message":  "오늘 하루도 수고 많으셨어요. 내일은 더 좋은 일만 가득할 거예요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 8, "message":  "우리 회사 최고의 장점은 바로 당신! 자부심을 가지세요💪", "enrollUrl": "www.naver.com?1" },
-  { "number": 9, "message":  "오늘은 동료에게 칭찬 한마디 어떨까요? BellyGood!", "enrollUrl": "www.naver.com?1" },
-  { "number": 10, "message": "벨리의 특별 행운의 기운을 드립니다! 럭키데이에요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 11, "message": "힘들 때는 '더나은'과 함께! 우리는 한 팀이니까요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 12, "message": "오늘은 런치버디와 함께하는 즐거운 점심 어떠세요?", "enrollUrl": "www.naver.com?1" },
-  { "number": 13, "message": "당신의 아이디어가 새로운 가치를 만들어요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 14, "message": "벨리가 추천하는 오늘의 운세: 초특급 대박날 것 같은 날!", "enrollUrl": "www.naver.com?1" },
-  { "number": 15, "message": "연말이 다가오네요! 올해도 수고 많으셨어요❤️", "enrollUrl": "www.naver.com?1" },
-  { "number": 16, "message": "우리 회사 동호회 한번 참여해보세요! 새로운 인연이 기다려요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 17, "message": "오늘은 함께라서 더 행복한 하루에요", "enrollUrl": "www.naver.com?1" },
-  { "number": 18, "message": "당신의 열정이 롯데홈쇼핑의 미래를 만듭니다!", "enrollUrl": "www.naver.com?1" },
-  { "number": 19, "message": "벨리's 팁: 잠깐의 스트레칭으로 상쾌한 하루를!", "enrollUrl": "www.naver.com?1" },
-  { "number": 20, "message": "당신이 있어 롯데홈쇼핑이 더 따뜻해져요", "enrollUrl": "www.naver.com?1" },
-  { "number": 21, "message": "올해 남은 목표도 파이팅! 벨리가 응원할게요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 22, "message": "크리스마스가 다가오네요! 설레는 마음 가득하세요🎅", "enrollUrl": "www.naver.com?1" },
-  { "number": 23, "message": "한 해의 마무리, 당신은 충분히 잘해냈어요!", "enrollUrl": "www.naver.com?1" },
-  { "number": 24, "message": "메리 크리스마스! 따뜻한 연말 보내세요🎄", "enrollUrl": "www.naver.com?1" }
+  { "number": 1, "message":  "Don't worry, be Belly! 오늘도 힘찬 하루의 시작이에요!", "enrollUrl": "https://forms.office.com/r/CrR9tJm3Hy" },
+  { "number": 2, "message":  "오늘 점심 메뉴는 뭘로 하실 건가요? 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "https://forms.office.com/r/6gEjYrEW7E" },
+  { "number": 3, "message":  "여러분의 미소가 롯데홈쇼핑을 더 빛나게 해요⭐", "enrollUrl": "https://forms.office.com/r/KjtYp0vHf5" },
+  { "number": 4, "message":  "오늘은 '파이팅 한 잔' 하는 날! 따뜻한 음료 한 잔 어떠세요?", "enrollUrl": "https://forms.office.com/r/ASqvBbq5dz" },
+  { "number": 5, "message":  "벨리가 응원해요! 오늘도 멋진 하루 보내세요!", "enrollUrl": "https://forms.office.com/r/gtFAi3hJEY" },
+  { "number": 6, "message":  "우리 함께 만드는 변화, 당신이 바로 주인공이에요!", "enrollUrl": "https://forms.office.com/r/kGsXTrHaeu" },
+  { "number": 7, "message":  "오늘 하루도 수고 많으셨어요. 내일은 더 좋은 일만 가득할 거예요!", "enrollUrl": "https://forms.office.com/r/m0F80pg36v" },
+  { "number": 8, "message":  "우리 회사 최고의 장점은 바로 당신! 자부심을 가지세요💪", "enrollUrl": "https://forms.office.com/r/VtYFPUN7Ht" },
+  { "number": 9, "message":  "오늘은 동료에게 칭찬 한마디 어떨까요? BellyGood!", "enrollUrl": "https://forms.office.com/r/1TFvEA7Pwe" },
+  { "number": 10, "message": "벨리의 특별 행운의 기운을 드립니다! 럭키데이에요!", "enrollUrl": "https://forms.office.com/r/nHnA1FxqxG" },
+  { "number": 11, "message": "힘들 때는 '더나은'과 함께! 우리는 한 팀이니까요!", "enrollUrl": "https://forms.office.com/r/bEdb3MrCGH" },
+  { "number": 12, "message": "오늘은 런치버디와 함께하는 즐거운 점심 어떠세요?", "enrollUrl": "https://forms.office.com/r/Z3CkdUrDJD" },
+  { "number": 13, "message": "당신의 아이디어가 새로운 가치를 만들어요!", "enrollUrl": "https://forms.office.com/r/dACBaHQbku" },
+  { "number": 14, "message": "벨리가 추천하는 오늘의 운세: 초특급 대박날 것 같은 날!", "enrollUrl": "https://forms.office.com/r/hHUHYGe1MM" },
+  { "number": 15, "message": "연말이 다가오네요! 올해도 수고 많으셨어요❤️", "enrollUrl": "https://forms.office.com/r/uhncqA8Ks3" },
+  { "number": 16, "message": "우리 회사 동호회 한번 참여해보세요! 새로운 인연이 기다려요!", "enrollUrl": "https://forms.office.com/r/uXkBVmk7Gb" },
+  { "number": 17, "message": "오늘은 함께라서 더 행복한 하루에요", "enrollUrl": "https://forms.office.com/r/U8VrPDQAEv" },
+  { "number": 18, "message": "당신의 열정이 롯데홈쇼핑의 미래를 만듭니다!", "enrollUrl": "https://forms.office.com/r/NB4emV8gph" },
+  { "number": 19, "message": "벨리's 팁: 잠깐의 스트레칭으로 상쾌한 하루를!", "enrollUrl": "https://forms.office.com/r/DgTHABzV28" },
+  { "number": 20, "message": "당신이 있어 롯데홈쇼핑이 더 따뜻해져요", "enrollUrl": "https://forms.office.com/r/D6Vd6DE2jt" },
+  { "number": 21, "message": "올해 남은 목표도 파이팅! 벨리가 응원할게요!", "enrollUrl": "https://forms.office.com/r/5mMhkDLZUt" },
+  { "number": 22, "message": "크리스마스가 다가오네요! 설레는 마음 가득하세요🎅", "enrollUrl": "https://forms.office.com/r/SXfLtjhsXw" },
+  { "number": 23, "message": "한 해의 마무리, 당신은 충분히 잘해냈어요!", "enrollUrl": "https://forms.office.com/r/jX7H79KQYK" },
+  { "number": 24, "message": "메리 크리스마스! 따뜻한 연말 보내세요🎄", "enrollUrl": "https://forms.office.com/r/UTYSfMhB1d" }
 ];
+
+
+
 
 // TODO: 
 //  1. 링크 24개 만들기 (폼즈)
