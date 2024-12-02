@@ -69,8 +69,8 @@ function showModal(imageUrl, text, enrollUrl) {
 }
 
 const modalMessageList = [
-  { "number": 1, "message":  "Don't worry, be Belly! 오늘도 힘찬 하루의 시작이에요!", "enrollUrl": "https://forms.office.com/r/CrR9tJm3Hy" },
-  { "number": 2, "message":  "오늘 점심 메뉴는 뭘로 하실 건가요? 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "https://forms.office.com/r/6gEjYrEW7E" },
+  { "number": 1, "message":  "✨ 행운: 12월의 시작과 함께 한 해를 정리할 좋은 기운이 가득!❓Don't worry, be Belly! 를 외쳐볼까요?", "enrollUrl": "https://forms.office.com/r/CrR9tJm3Hy" },
+  { "number": 2, "message":  "✨ 행운: 예상치 못한 행운이 찾아올 것 같은 날이에요!❓오늘 점심 메뉴를 추천해주세요! 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "https://forms.office.com/r/6gEjYrEW7E" },
   { "number": 3, "message":  "여러분의 미소가 롯데홈쇼핑을 더 빛나게 해요⭐", "enrollUrl": "https://forms.office.com/r/KjtYp0vHf5" },
   { "number": 4, "message":  "오늘은 '파이팅 한 잔' 하는 날! 따뜻한 음료 한 잔 어떠세요?", "enrollUrl": "https://forms.office.com/r/ASqvBbq5dz" },
   { "number": 5, "message":  "벨리가 응원해요! 오늘도 멋진 하루 보내세요!", "enrollUrl": "https://forms.office.com/r/gtFAi3hJEY" },
