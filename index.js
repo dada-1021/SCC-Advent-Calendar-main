@@ -72,7 +72,7 @@ const modalMessageList = [
   { "number": 1, "message":  "✨ 행운: 12월의 시작과 함께 한 해를 정리할 좋은 기운이 가득!❓질문 : Don't worry, be Belly! 를 외쳐볼까요?", "enrollUrl": "https://forms.office.com/r/CrR9tJm3Hy" },
   { "number": 2, "message":  "✨ 행운: 당신의 열정 passion 이 롯데홈쇼핑의 미래를 만듭니다!❓질문 : 오늘의 패션 fashion 을 알려주세요 ٩(ˊᗜˋ*)و", "enrollUrl": "https://forms.office.com/r/6gEjYrEW7E" },
   { "number": 3, "message":  "✨ 행운: 오늘 하루도 화이팅! 어제보다 오늘 더 좋은 일만 가득할 거예요!(◍•ᴗ•◍)✧ ❓질문: 오늘은 나 or 동료에게 칭찬 한마디 어떨까요? BellyGood!", "enrollUrl": "https://forms.office.com/r/KjtYp0vHf5" },
-  { "number": 4, "message":  "✨행운: 예상치 못한 행운이 찾아올 것 같은 날이에요! ❓질문 : 오늘 점심 메뉴를 추천해주세요! 맛있는 걸 먹으면 오후도 활기차답니다!", "enrollUrl": "https://forms.office.com/r/ASqvBbq5dz" },
+  { "number": 4, "message":  "✨행운: 예상치 못한 행운이 찾아올 것 같은 날이에요! ❓질문 : 오늘 점심 메뉴를 추천해주세요! 맛있는 걸 먹으면 오후도 활기차답니다!(๑•̀ㅂ•́)و✧", "enrollUrl": "https://forms.office.com/r/ASqvBbq5dz" },
   { "number": 5, "message":  "벨리가 응원해요! 오늘도 멋진 하루 보내세요!", "enrollUrl": "https://forms.office.com/r/gtFAi3hJEY" },
   { "number": 6, "message":  "우리 함께 만드는 변화, 당신이 바로 주인공이에요!", "enrollUrl": "https://forms.office.com/r/kGsXTrHaeu" },
   { "number": 7, "message":  "오늘 하루도 수고 많으셨어요. 내일은 더 좋은 일만 가득할 거예요!", "enrollUrl": "https://forms.office.com/r/m0F80pg36v" },
