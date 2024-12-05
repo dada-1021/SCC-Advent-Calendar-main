@@ -76,7 +76,7 @@ const modalMessageList = [
   { "number": 5, "message":  "✨ 행운: 여러분의 미소가 롯데홈쇼핑을 더 빛나게 해요 ⭐❓ 질문: 회사 생활에 활력을 주는 나만의 비결이 있다면? (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧", "enrollUrl": "https://forms.office.com/r/gtFAi3hJEY" },
   { "number": 6, "message":  "✨ 행운: 아싸 금요일! ⸜(♡'ᗜ'♡)⸝ 긍정적인 에너지가 가득한 하루가 될 거예요!❓ 질문: 즐거운 주말을 보내기 위해서 무엇을 하면 좋을까요? 다들 즐주!💚", "enrollUrl": "https://forms.office.com/r/kGsXTrHaeu" },
   { "number": 7, "message":  "✨ 행운: 여유로운 주말, 특별한 추억이 만들어질 거예요!❓ 질문:  새로 배우고 싶은게 있다면? (•͈⌔•͈⑅)", "enrollUrl": "https://forms.office.com/r/m0F80pg36v" },
-  { "number": 8, "message":  "우리 회사 최고의 장점은 바로 당신! 자부심을 가지세요💪", "enrollUrl": "https://forms.office.com/r/VtYFPUN7Ht" },
+  { "number": 8, "message":  "✨ 행운: 편안한 일요일, 새로운 한 주를 위한 에너지가 채워질 거예요! ᖭི(ˊᗜˋ*)ᖫྀ❓ 질문: 주말에 보고 싶은 영화나 드라마는?", "enrollUrl": "https://forms.office.com/r/VtYFPUN7Ht" },
   { "number": 9, "message":  "오늘은 동료에게 칭찬 한마디 어떨까요? BellyGood!", "enrollUrl": "https://forms.office.com/r/1TFvEA7Pwe" },
   { "number": 10, "message": "벨리의 특별 행운의 기운을 드립니다! 럭키데이에요!", "enrollUrl": "https://forms.office.com/r/nHnA1FxqxG" },
   { "number": 11, "message": "힘들 때는 '더나은'과 함께! 우리는 한 팀이니까요!", "enrollUrl": "https://forms.office.com/r/bEdb3MrCGH" },
