@@ -80,7 +80,7 @@ const modalMessageList = [
   { "number": 9, "message":  "✨ 행운: 활기찬 월요일! 신나는 리듬처럼 즐거운 일만 가득! 오늘은 BGM을 바꿔봤어요 다같이 감상해요!❓질문: 출근길에 무엇을 들으면서 오셨나요?  ♪(๑ᴖ◡ᴖ๑)♪", "enrollUrl": "https://forms.office.com/r/1TFvEA7Pwe" },
   { "number": 10, "message": "✨ 행운: 현명한 소비로 두 배의 행복이 찾아올 거예요! (✿˵•́ᴗ•̀˵) ❓ 질문: 올해 가장 잘 한 내돈내산 소비가 있다면?💰", "enrollUrl": "https://forms.office.com/r/nHnA1FxqxG" },
   { "number": 11, "message": "✨ 행운: 오늘은 업무가 술술 풀리는 날이에요! 🧻🤓 ❓ 질문: 나만의 버킷리스트가 있다면? ٩(๑❛ᴗ❛๑)۶", "enrollUrl": "https://forms.office.com/r/bEdb3MrCGH" },
-  { "number": 12, "message": "오늘은 런치버디와 함께하는 즐거운 점심 어떠세요?", "enrollUrl": "https://forms.office.com/r/Z3CkdUrDJD" },
+  { "number": 12, "message": "✨행운:  벨리가 추천하는 오늘의 운세 - 초특급 대박날 것 같은 날! (≡^∇^≡)❓질문:  세계 어디든 어디론가 자유롭게 떠날 수 있다면?!🌏", "enrollUrl": "https://forms.office.com/r/Z3CkdUrDJD" },
   { "number": 13, "message": "당신의 아이디어가 새로운 가치를 만들어요!", "enrollUrl": "https://forms.office.com/r/dACBaHQbku" },
   { "number": 14, "message": "벨리가 추천하는 오늘의 운세: 초특급 대박날 것 같은 날!", "enrollUrl": "https://forms.office.com/r/hHUHYGe1MM" },
   { "number": 15, "message": "연말이 다가오네요! 올해도 수고 많으셨어요❤️", "enrollUrl": "https://forms.office.com/r/uhncqA8Ks3" },
