@@ -77,7 +77,7 @@ const modalMessageList = [
   { "number": 6, "message":  "✨ 행운: 아싸 금요일! ⸜(♡'ᗜ'♡)⸝ 긍정적인 에너지가 가득한 하루가 될 거예요!❓ 질문: 즐거운 주말을 보내기 위해서 무엇을 하면 좋을까요? 다들 즐주!💚", "enrollUrl": "https://forms.office.com/r/kGsXTrHaeu" },
   { "number": 7, "message":  "✨ 행운: 여유로운 주말, 특별한 추억이 만들어질 거예요!❓ 질문:  새로 배우고 싶은게 있다면? (•͈⌔•͈⑅)", "enrollUrl": "https://forms.office.com/r/m0F80pg36v" },
   { "number": 8, "message":  "✨ 행운: 편안한 일요일, 새로운 한 주를 위한 에너지가 채워질 거예요! ᖭི(ˊᗜˋ*)ᖫྀ❓ 질문: 주말에 보고 싶은 영화나 드라마는?", "enrollUrl": "https://forms.office.com/r/VtYFPUN7Ht" },
-  { "number": 9, "message":  "✨ 행운: 오늘은 업무가 술술 풀리는 날이에요! 🧻🤓❓ 질문: 나만의 버킷리스트가 있다면? ٩(๑❛ᴗ❛๑)۶", "enrollUrl": "https://forms.office.com/r/1TFvEA7Pwe" },
+  { "number": 9, "message":  "✨ 행운: 활기찬 월요일! 신나는 리듬처럼 즐거운 일만 가득! 오늘은 BGM을 바꿔봤어요 다같이 감상해요!❓질문: 출근길에 무엇을 들으면서 오셨나요?  ♪(๑ᴖ◡ᴖ๑)♪", "enrollUrl": "https://forms.office.com/r/1TFvEA7Pwe" },
   { "number": 10, "message": "벨리의 특별 행운의 기운을 드립니다! 럭키데이에요!", "enrollUrl": "https://forms.office.com/r/nHnA1FxqxG" },
   { "number": 11, "message": "힘들 때는 '더나은'과 함께! 우리는 한 팀이니까요!", "enrollUrl": "https://forms.office.com/r/bEdb3MrCGH" },
   { "number": 12, "message": "오늘은 런치버디와 함께하는 즐거운 점심 어떠세요?", "enrollUrl": "https://forms.office.com/r/Z3CkdUrDJD" },
