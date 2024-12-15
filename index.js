@@ -82,17 +82,17 @@ const modalMessageList = [
   { "number": 11, "message": "✨ 행운: 오늘은 업무가 술술 풀리는 날이에요! 🧻🤓 ❓ 질문: 나만의 버킷리스트가 있다면? ٩(๑❛ᴗ❛๑)۶", "enrollUrl": "https://forms.office.com/r/bEdb3MrCGH" },
   { "number": 12, "message": "✨ 행운: 벨리가 추천하는 오늘의 운세 - 초특급 대박날 것 같은 날! (≡^∇^≡)❓질문:  세계 어디든 어디론가 자유롭게 떠날 수 있다면?!🌏", "enrollUrl": "https://forms.office.com/r/Z3CkdUrDJD" },
   { "number": 13, "message": "✨ 행운: 오늘은 모든 걱정이 사라지는 마법의 날이에요!🧙❓질문:  스트레스를 날려버리는 나만의 방법은?♡ ٩(´▽`)۶ ♡", "enrollUrl": "https://forms.office.com/r/dACBaHQbku" },
-  { "number": 14, "message": "✨ 행운: 벨리가 추천하는 오늘의 운세: 초특급 대박날 것 같은 날!", "enrollUrl": "https://forms.office.com/r/hHUHYGe1MM" },
-  { "number": 15, "message": "✨ 행운: 연말이 다가오네요! 올해도 수고 많으셨어요❤️", "enrollUrl": "https://forms.office.com/r/uhncqA8Ks3" },
-  { "number": 16, "message": "✨ 행운: 벨리's 팁: 잠깐의 스트레칭으로 상쾌한 하루를!🙆 ❓질문: 나만의 건강관리 비법은?!💪", "enrollUrl": "https://forms.office.com/r/uXkBVmk7Gb" },
-  { "number": 17, "message": "오늘은 함께라서 더 행복한 하루에요", "enrollUrl": "https://forms.office.com/r/U8VrPDQAEv" },
-  { "number": 18, "message": "당신의 열정이 롯데홈쇼핑의 미래를 만듭니다!", "enrollUrl": "https://forms.office.com/r/NB4emV8gph" },
-  { "number": 19, "message": "벨리's 팁: 잠깐의 스트레칭으로 상쾌한 하루를!", "enrollUrl": "https://forms.office.com/r/DgTHABzV28" },
-  { "number": 20, "message": "당신이 있어 롯데홈쇼핑이 더 따뜻해져요", "enrollUrl": "https://forms.office.com/r/D6Vd6DE2jt" },
-  { "number": 21, "message": "올해 남은 목표도 파이팅! 벨리가 응원할게요!", "enrollUrl": "https://forms.office.com/r/5mMhkDLZUt" },
-  { "number": 22, "message": "크리스마스가 다가오네요! 설레는 마음 가득하세요🎅", "enrollUrl": "https://forms.office.com/r/SXfLtjhsXw" },
-  { "number": 23, "message": "한 해의 마무리, 당신은 충분히 잘해냈어요!", "enrollUrl": "https://forms.office.com/r/jX7H79KQYK" },
-  { "number": 24, "message": "메리 크리스마스! 따뜻한 연말 보내세요🎄", "enrollUrl": "https://forms.office.com/r/UTYSfMhB1d" }
+  { "number": 14, "message": "✨ 행운: 벨리가 추천하는 오늘의 운세: 초특급 대박날 것 같은 날! ❓ 질문: 벨리의 초특급 럭키 파워가 여러분께 슝✨ 전해지길 바라요! 오늘도 대박 터지는 하루 보내세요! (◍•ᴗ•◍)✧", "enrollUrl": "https://forms.office.com/r/hHUHYGe1MM" },
+  { "number": 15, "message": "✨ 행운: 연말이 다가오네요! 올해도 수고 많으셨어요❤️ 벨리's 팁: 잠깐의 스트레칭으로 상쾌한 하루를!🙆 ❓ 질문: 나만의 건강관리 비법은?!💪 ", "enrollUrl": "https://forms.office.com/r/uhncqA8Ks3" },
+  { "number": 16, "message": "✨ 행운: 오늘은 당신이 주인공인 영화 같은 하루! 🎬 ❓ 질문: 내 인생 최고의 장면은 언제였나요? 📺 ", "enrollUrl": "https://forms.office.com/r/uXkBVmk7Gb" },
+  { "number": 17, "message": "✨ 행운: 당신의 엉뚱한 상상이 멋진 아이디어가 될 거예요!💡❓ 질문:  최근 떠오른 재미있는 생각은? 🤔💭 ", "enrollUrl": "https://forms.office.com/r/U8VrPDQAEv" },
+  { "number": 18, "message": "✨ 행운: 오늘은 행운의 여신이 당신을 집중 케어하는 날!🍀 ❓ 질문: 올해 행운처럼 나에게 다가온 깨달음or배운 점이 있다면? ", "enrollUrl": "https://forms.office.com/r/NB4emV8gph" },
+  { "number": 19, "message": "✨ 행운: 당신의 매력이 200% 발산되는 날! 💫당신의 노력이 아름답게 빛날 거예요!🌟 ❓ 질문: 올해 가장 뿌듯했던 순간은? 😊 ", "enrollUrl": "https://forms.office.com/r/DgTHABzV28" },
+  { "number": 20, "message": "✨ 행운: 행복한 우연이 도미노처럼 연이어 찾아올 거예요! 🚪🚪🚪 ❓ 질문:  세 개의 문 뒤에 각각 어떤 행운이 숨어있길 바라시나요? 🚪 첫 번째 문: 🚪 두 번째 문: 🚪 세 번째 문:", "enrollUrl": "https://forms.office.com/r/D6Vd6DE2jt" },
+  { "number": 21, "message": "✨ 행운: 연말 분위기와 함께 행복한 기운이 가득!🎀 올해 남은 목표도 파이팅! 벨리가 응원할게요! ❓ 질문: 올해 가장 감사했던 동료는 누구인가요?🤝", "enrollUrl": "https://forms.office.com/r/5mMhkDLZUt" },
+  { "number": 22, "message": "✨ 행운: 한 해의 마무리가 풍성해지는 날! 당신은 충분히 잘해냈어요👏 ❓ 질문: 다가오는 2025년에 이루고 싶은 목표 딱 3가지는 무엇인가요?🎯 ", "enrollUrl": "https://forms.office.com/r/SXfLtjhsXw" },
+  { "number": 23, "message": "✨ 행운:  크리스마스가 다가오네요! 설레는 마음 가득하세요! 당신의 소원을 들어줄 산타가 오고 있어요! 🎅 ❓ 질문:  산타에게 몰래 부탁하고 싶은 소원은? 🎁 ", "enrollUrl": "https://forms.office.com/r/jX7H79KQYK" },
+  { "number": 24, "message": "✨ 행운: 메리 크리스마스! 따뜻한 연말 보내세요🎄특별한 기적이 일어날 거예요! ❓ 질문: 새해에도 함께해요! Don't worry, be Belly! 🎊", "enrollUrl": "https://forms.office.com/r/UTYSfMhB1d" }
 ];
 
 
