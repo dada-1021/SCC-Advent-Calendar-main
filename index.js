@@ -91,7 +91,7 @@ const modalMessageList = [
   { "number": 20, "message": "✨ 행운: 행복한 우연이 도미노처럼 연이어 찾아올 거예요! 🚪🚪🚪 ❓ 질문:  세 개의 문 뒤에 각각 어떤 행운이 숨어있길 바라시나요? 🚪 첫 번째 문: 🚪 두 번째 문: 🚪 세 번째 문:", "enrollUrl": "https://forms.office.com/r/D6Vd6DE2jt" },
   { "number": 21, "message": "✨ 행운: 연말 분위기와 함께 행복한 기운이 가득!🎀 올해 남은 목표도 파이팅! 벨리가 응원할게요! ❓ 질문: 올해 가장 감사했던 동료는 누구인가요?🤝", "enrollUrl": "https://forms.office.com/r/5mMhkDLZUt" },
   { "number": 22, "message": "✨ 행운: 한 해의 마무리가 풍성해지는 날! 당신은 충분히 잘해냈어요👏 ❓ 질문: 다가오는 2025년에 이루고 싶은 목표 딱 3가지는 무엇인가요?🎯 ", "enrollUrl": "https://forms.office.com/r/SXfLtjhsXw" },
-  { "number": 23, "message": "✨ 행운:  크리스마스가 다가오네요! 설레는 마음 가득하세요! 당신의 소원을 들어줄 산타가 오고 있어요! 🎅 ❓ 질문:  산타에게 몰래 부탁하고 싶은 소원은? 🎁 ", "enrollUrl": "https://forms.office.com/r/jX7H79KQYK" },
+  { "number": 23, "message": "✨ 행운: 크리스마스가 다가오네요! 설레는 마음 가득하세요! 당신의 소원을 들어줄 산타가 오고 있어요! 🎅 ❓ 질문:  산타에게 몰래 부탁하고 싶은 소원은? 🎁 ", "enrollUrl": "https://forms.office.com/r/jX7H79KQYK" },
   { "number": 24, "message": "✨ 행운: 메리 크리스마스! 따뜻한 연말 보내세요🎄특별한 기적이 일어날 거예요! ❓ 질문: 새해에도 함께해요! Don't worry, be Belly! 🎊", "enrollUrl": "https://forms.office.com/r/UTYSfMhB1d" }
 ];
 
